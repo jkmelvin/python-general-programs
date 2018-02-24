@@ -1,4 +1,4 @@
 # python-general-programs
 
 
-contains some basic general python progs
+contains some basic python progs
